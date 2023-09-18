@@ -31,8 +31,7 @@ const Services = () => {
               exit='hidden'
               className='mb-4 max-w-[400px] mx-auto lg:mx-0'
             >
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. A
-              eveniet dignissimos distinctio tempore harum laudantium.
+              In a digital landscape that's constantly evolving, my full-stack web development services are your roadmap to a future-proof, cutting-edge web presence.
             </motion.p>
           </div>
 

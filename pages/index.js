@@ -37,9 +37,7 @@ const Home = () => {
             exit='hidden'
             className='max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16'
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque
-            nostrum quam reprehenderit vero, tenetur voluptatem nulla aut
-            aspernatur dolores ut.
+            Full-stack developers are the Swiss Army knives of the tech world, equipped with skills to handle any part of the development process.
           </motion.p>
           {/* btn */}
           <div className='flex justify-center xl:hidden relative'>

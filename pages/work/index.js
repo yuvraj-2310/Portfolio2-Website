@@ -31,8 +31,7 @@ const Work = () => {
               exit='hidden'
               className='mb-4 max-w-[400px] mx-auto lg:mx-0'
             >
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. A
-              eveniet dignissimos distinctio tempore harum laudantium.
+              Bridging the gap between design and functionality, I sculpt seamless web solutions as a full-stack web developer.
             </motion.p>
           </div>
 
